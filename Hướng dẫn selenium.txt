@@ -1,0 +1,21 @@
+***************** HƯỚNG DẪN CÀI ĐẶT VÀ TEST BẰNG SELENIUM TRONG NGÔN NGỮ C# *****************
+
+- NGÔN NGỮ LẬP TRÌNH: C#
+- IDE SỬ DỤNG: Visual studio 2019 hoặc 2022
+- .NET 5
+- LINK GITHUB: https://github.com/khoinhmse150853/QuadraticEquation
+		   https://github.com/khoinhmse150853/Selenium
+
+--------- Các bước ---------
+
+- BƯỚC 1: Clone project QuadraticEquation trên link Github : https://github.com/khoinhmse150853/QuadraticEquation
+
+- BƯỚC 2: Chạy project QuadraticEquation trên web
+
+- BƯỚC 3: Tạo project test bằng Nunit trong visual studio
+
+- BƯỚC 4: Thêm thư viện Selenium.WebDriver và thư viện Selenium.WebDriver.ChromeDriver
+
+- BƯỚC 5: Thực hiện viết code theo video hướng dân
+
+- BƯỚC 6: Tiến hành chạy test vả kiểm tra kết quả
